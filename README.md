@@ -11,7 +11,7 @@ I am MERN Stack Developer.
 * ✉️  You can contact me at [pdhananjay774@gmail.com](mailto:pdhananjay774@gmail.com)
 * 🧠  I'm learning Redux Toolkit
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Tell everyone, I am Batman
+<!-- * ⚡  Tell everyone, I am Batman -->
 
 ### Skills
 
